@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0"
+     width="850" height="850" viewBox="0 0 850 850">
+    <title>Odengymnasiet Icon (color, inverted)</title>
+
+    <defs>
+        <style text="text/css">
+            #circle {
+                fill: #51ADE5;
+            }
+
+            #separator {
+                fill: #254A9F;
+            }
+        </style>
+    </defs>
+
+    <path id="circle" d="M350,570
+                         L350,430
+                         L700,430
+                         A350,350 0 1,0 700,570
+                         L350,570 Z" />
+
+    <path id="separator" d="M350,130
+                            L350,0
+                            Q800,50 850,430
+                            L720,430
+                            Q655,160 350,130 Z" />
+</svg>
